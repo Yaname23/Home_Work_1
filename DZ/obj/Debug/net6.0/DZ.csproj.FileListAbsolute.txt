@@ -1,0 +1,15 @@
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\bin\Debug\net6.0\DZ.exe
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\bin\Debug\net6.0\DZ.deps.json
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\bin\Debug\net6.0\DZ.runtimeconfig.json
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\bin\Debug\net6.0\DZ.dll
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\bin\Debug\net6.0\DZ.pdb
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\obj\Debug\net6.0\DZ.csproj.AssemblyReference.cache
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\obj\Debug\net6.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\obj\Debug\net6.0\DZ.AssemblyInfoInputs.cache
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\obj\Debug\net6.0\DZ.AssemblyInfo.cs
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\obj\Debug\net6.0\DZ.csproj.CoreCompileInputs.cache
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\obj\Debug\net6.0\DZ.dll
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\obj\Debug\net6.0\refint\DZ.dll
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\obj\Debug\net6.0\DZ.pdb
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\obj\Debug\net6.0\DZ.genruntimeconfig.cache
+C:\Документы\.GeekBrains\VS\repositt\Home_Works\Home_Works\DZ\obj\Debug\net6.0\ref\DZ.dll
